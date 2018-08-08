@@ -3,7 +3,7 @@ layout: default
 title: GDPR Compliance Documentation
 ---
 
-For UseGalaxy.eu
+For Norwegian NeLS Galaxy services.
 
 ## ToS & PP
 
@@ -13,9 +13,12 @@ For UseGalaxy.eu
 ## GDPR Documentation
 
 - [Your Rights Under the GDPR](./gdpr-rights.html)
+
+<!---
 - [Legitimate Interest Analyses](./lia/)
 - [Data Storage and Access](./gdpr-docs.html)
 - [Data Processing Activities Register](./dpa/)
+-->
 
 ## Contact
 

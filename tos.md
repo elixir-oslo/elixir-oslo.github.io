@@ -1,38 +1,34 @@
 ---
-layout: history
+layout: default
 published_effective: true
 title: Terms of Service
 ---
 
 ## Definitions
 
-European Galaxy Sites or "the Galaxy Service": any one of the Galaxy sites provided to you by the Freiburg Galaxy Team and the European Galaxy Project, including but not limited to:
+Norwegian NeLS Galaxy Sites or "the Galaxy Service": any one of the Galaxy sites provided to you by the partner universities in the Elixir Norway Project, including but not limited to:
 
-- https://usegalaxy.eu
-- https://hicexplorer.usegalaxy.eu
-- https://metagenomics.usegalaxy.eu
-- https://galaxy.uni-freiburg.de
+- https://galaxy-uib.bioinfo.no
+- https://galaxy-uio.bioinfo.no
+- https://galaxy-uit.bioinfo.no
+- https://galaxy-ntnu.bioinfo.no
+- https://galaxy-nmbu.bioinfo.no
 
-UseGalaxy Site
-
-- https://usegalaxy-eu.github.io
 
 ## Use of Service.
 
-The European Galaxy Sites and UseGalaxy Site are a free, public, Internet
-accessible resource (the "Service"). Data transfer is encrypted unless you
-choose to use unencrypted FTP access. Data storage is not encrypted. If there
+The Norwegian NeLS Galaxy Sites are a free, public, Internet
+accessible resource (the "Service") for Norwegian Life Scientists and their collaborators. 
+Data transfer is encrypted. Data storage is not encrypted. If there
 are restrictions on the way your research data can be stored and used, please
 consult your local institutional review board or the project principal
-investigator before uploading it to any public site, including this Service. If
-you have protected data, large data storage requirements, or short deadlines
-you are encouraged to set up your own local Galaxy instance and not use this
-Service. Your access to the service may be revoked at any time for reasons
+investigator before uploading it to any public site, including this Service. 
+Your access to the service may be revoked at any time for reasons
 deemed necessary by the operators of the Service.
 
 You acknowledge that you are responsible for compliance of all of your data
 processing activities carried out on the Galaxy Service with applicable laws
-and regulations of the Federal Republic of Germany, the European Union as well
+and regulations of Norway, as well
 as any laws or regulations of other legislations or any other restrictions that
 might be applicable due to the provenance, intended use, legal ownership of or
 any licensing or other legal restrictions imposed on the data being processed.
@@ -44,7 +40,8 @@ including but not limited to potentially personally identifying medical data.
 
 ## Accounts and Service Limitations
 
-You may choose to register an account with the Service. Your registration data
+To use the Service, an user account will be automatically registered with the Service 
+upon first time login with your FEIDE identity or your NeLS IdP identity. Your registration data
 is primarily used so you may persistently store data on the Service and use
 advanced Galaxy features such as sharing and workflows. The operators of the
 Service will not provide your registration data to any third party unless
@@ -65,8 +62,10 @@ WARRANTY constitutes an essential part of this service agreement.
 ## Limitation of Liability
 
 Under no circumstances and under no legal theory, whether in tort (including
-negligence), contract, or otherwise, shall Albert-Ludwigs-Universität, Freiburg
-im Breisgau or any other entity which provides resources for the Service be
+negligence), contract, or otherwise, shall the University of Bergen (UiB), 
+University of Oslo (UiO), University of Tromsø (UiT), The Norwegian University 
+of Science and Technology (NTNU) or the Norwegian University of Life Sciences (NMBU)
+or any other entity which provides resources for the Service be
 liable to anyone for any indirect, special, incidental, or consequential
 damages of any character arising as a result of the use of this Service
 including, without limitation, damages for loss of goodwill, work stoppage,
