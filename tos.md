@@ -40,7 +40,7 @@ including but not limited to potentially personally identifying medical data.
 
 ## Accounts and Service Limitations
 
-To use the Service, an user account will be automatically registered with the Service 
+To use the Service, a user account will be automatically registered with the Service 
 upon first time login with your FEIDE identity or your NeLS IdP identity. Your registration data
 is primarily used so you may persistently store data on the Service and use
 advanced Galaxy features such as sharing and workflows. The operators of the
