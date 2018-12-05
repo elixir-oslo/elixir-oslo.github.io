@@ -21,7 +21,7 @@ The Elixir Norway Galaxy Team is aware the protection of your privacy is importa
 
 ## Information collected and use of information
 
-During normal usage of our services we do not collect information that will personally identify you. Our webservers only store information such as the Referrer (where you came to us from), pages that you access, and dates of your visit. We may use this information in anonymised aggregates in order to generate usage statistics and to improve the usefulness of our services. Your Referrer information is automatically deleted from logs within 48 hours.
+During normal usage of our services we do not collect information that will personally identify you. Our webservers only store information such as the Referrer (where you came to us from), pages that you access, and dates of your visit. We may use this information in anonymised aggregates in order to generate usage statistics and to improve the usefulness of our services. Your Referrer information is automatically encrypted within a week, and stored at most for 12 months before it is automatically deleted.
 
 Beyond this, we will only store personal information which you provide to us voluntarily (e.g. datasets uploaded to Galaxy, histories you create including execution of jobs, etc.), or as part of a support request.
 
