@@ -13,6 +13,7 @@ Norwegian NeLS Galaxy Sites or "the Galaxy Service": any one of the Galaxy sites
 - https://galaxy-uit.bioinfo.no
 - https://galaxy-ntnu.bioinfo.no
 - https://galaxy-nmbu.bioinfo.no
+- https://usegalaxy.no
 
 
 ## Use of Service.
