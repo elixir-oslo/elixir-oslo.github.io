@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "GDPR"
 description: General Data Protection Regulation (GDPR) Compliance Documentation for ELIXIR Oslo services
-email: elixir-oslo-admin@usit.uio.no
+email: elixir-oslo-services@usit.uio.no
 baseurl: "/gdpr" # the subpath of your site, e.g. /blog
 #url: "https://usegalaxy-eu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: galaxyproject
