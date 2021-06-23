@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "GDPR"
-description: Norwegian NeLS Galaxy General Data Protection Regulation Documentation
-email: nels@bioinfo.no
-baseurl: "/galaxy-terms" # the subpath of your site, e.g. /blog
+description: General Data Protection Regulation (GDPR) Compliance Documentation for ELIXIR Oslo services
+email: elixir-oslo-admin@usit.uio.no
+baseurl: "/gdpr" # the subpath of your site, e.g. /blog
 #url: "https://usegalaxy-eu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: galaxyproject
 #github_username:  usegalaxy-eu

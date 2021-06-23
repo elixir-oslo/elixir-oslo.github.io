@@ -1,11 +1,14 @@
 ---
 layout: default
-title: GDPR Compliance Documentation
+title: General Data Protection Regulation (GDPR) Compliance Documentation for ELIXIR Oslo services
 ---
 
-For Norwegian NeLS Galaxy services.
+The following documents contains the policies, terms and rights associated with usage of the IT services maintained by the 
+[Oslo node of ELIXIR Norway](https://elixir.no/organization/organisation/elixir-uio) and 
+hosted at the [University of Oslo](https://uio.no), under the 
+[General Data Protection Regulation (GDPR)](https://gdpr-info.eu/) and Norwegian law.
 
-## ToS & PP
+## Privacy Policy and Terms of Service
 
 - [Privacy Policy](./privacy-policy.html)
 - [Terms of Service](./tos.html)
