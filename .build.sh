@@ -7,9 +7,9 @@ ruby --version
 gem --version
 
 gem install bundler:1.15.4
-
 bundle config build.nokogiri --use-system-libraries
 bundle install
+
 # Check internal links
 #bundle exec htmlproofer ./_site --check-html --allow-hash-href --assume-extension --disable-external
 # Check external

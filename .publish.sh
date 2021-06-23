@@ -1,13 +1,14 @@
 #!/bin/bash
 set -ex
-source /usr/local/rvm/environments/ruby-2.4.1
+#source /usr/local/rvm/environments/ruby-2.4.1
+
 ruby --version
-rvm --version
+#rvm --version
 gem --version
-gem install bundler
+
+gem install bundler:1.15.4
+bundle config build.nokogiri --use-system-libraries
 bundle install
-
-
 
 TMP_DIR=$(mktemp -d)
 git checkout master
@@ -18,8 +19,8 @@ cp -Rv $TMP_DIR/. .
 
 git add .
 git add --all *
-git config --local user.name "UseGalaxy.EU Build Bot"
-git config --local user.email "jenkins@usegalaxy.eu"
+#git config --local user.name "UseGalaxy.EU Build Bot"
+#git config --local user.email "jenkins@usegalaxy.eu"
 
 git commit -m "Update site ($BUILD_NUMBER)
 
